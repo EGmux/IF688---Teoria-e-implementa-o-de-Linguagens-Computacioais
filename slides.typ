@@ -46,6 +46,5 @@
     (<|>) :: Parser a -> Parser a -> Parser a
 
   ```
-
-
+  == Interlude into combinators
 ]
